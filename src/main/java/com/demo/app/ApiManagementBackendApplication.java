@@ -27,6 +27,7 @@ public class ApiManagementBackendApplication implements CommandLineRunner {
 		this.employeeRepository.save(new Employee(5, "Prasad", "Prasad@redhat.com"));
 		this.employeeRepository.save(new Employee(6, "Siddhant", "Siddhant@redhat.com"));
 		this.employeeRepository.save(new Employee(7, "Gopal", "Gopal@redhat.com"));
+		this.employeeRepository.save(new Employee(8, "Samson", "Samson@redhat.com"));
 		
 	}
 
