@@ -30,5 +30,5 @@ public class ApiManagementBackendApplication implements CommandLineRunner {
 		this.employeeRepository.save(new Employee(8, "Samson", "Samson@redhat.com"));
 		
 	}
-
+	
 }
