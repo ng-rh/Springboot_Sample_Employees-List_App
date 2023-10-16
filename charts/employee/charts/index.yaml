@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2023-10-16T17:20:34.330733+05:30"
+entries:
+  employee:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-10-16T17:39:22.319721+05:30"
+    description: A Helm chart for deploying sample employee application.
+    digest: 85b6cba08fa2d876eaf25a6cfe5ab6606baf9b6c1f73220eea8be0aff95f9faf
+    name: employee
+    type: application
+    urls:
+    - employee-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-16T17:39:22.319232+05:30"
