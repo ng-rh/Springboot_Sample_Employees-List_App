@@ -3,12 +3,12 @@ entries:
   employee:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-10-16T17:39:22.319721+05:30"
+    created: "2023-10-19T12:41:11.132954+05:30"
     description: A Helm chart for deploying sample employee application.
-    digest: 85b6cba08fa2d876eaf25a6cfe5ab6606baf9b6c1f73220eea8be0aff95f9faf
+    digest: 5d3a5560ccad73ceebcfbc989091c44db63a89b62e99ac7e9e632043437e32cd
     name: employee
     type: application
     urls:
-    - employee-0.1.0.tgz
+    - https://ng-rh.github.io/Springboot_Sample_Employees-List_App/employee/chart/employee-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-16T17:39:22.319232+05:30"
+generated: "2023-10-19T12:41:11.132488+05:30"
