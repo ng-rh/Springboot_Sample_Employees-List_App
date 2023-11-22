@@ -6,3 +6,4 @@ Access Application at:
 
     /api/ping
 
+# new line
